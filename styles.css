@@ -109,9 +109,10 @@ ul{
 }
 ul > li:hover{
     background-color:blue;
+    color:white;
     
 }
-ul > li > a:hover{
+ul > li:hover > a{
     color:white;
 }
 nav a{
